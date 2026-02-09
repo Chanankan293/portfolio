@@ -10,7 +10,7 @@ Web Design Project
 Solo HTML/CSS Website
 - Personal multi-page website (solo project)
 - Built with HTML & CSS
-- Live demo: https://chanankan293.github.io/solo-html-css-portfolio/
+- Live demo: https://chanankan293.github.io/solo-web-project/
 - GitHub: https://github.com/Chanankan293/solo-html-css-portfolio
 
 Group Projects
