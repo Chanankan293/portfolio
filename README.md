@@ -6,3 +6,10 @@ Web Design Project
 - Multi-page website (Home, Product, Login, Cart, Profile)
 - Live demo: https://chanankan293.github.io/project-charm/
 - GitHub: https://github.com/Chanankan293/project-charm
+
+Solo HTML/CSS Website
+- Personal multi-page website (solo project)
+- Built with HTML & CSS
+- Live demo: https://chanankan293.github.io/solo-html-css-portfolio/
+- GitHub: https://github.com/Chanankan293/solo-html-css-portfolio
+
