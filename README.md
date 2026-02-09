@@ -13,7 +13,15 @@ Solo HTML/CSS Website
 - Live demo: https://chanankan293.github.io/solo-web-project/
 - GitHub: https://github.com/Chanankan293/solo-html-css-portfolio
 
+Alex Face – Image & Face Data 
+-Technologies: HTML, CSS
+-Features: Display and organize images on web pages
+-My role: Design webpage layout, manage image assets, and structure project files
+- Live demo:
+-GitHub: https://github.com/Chanankan293/AlexFace
+
 Group Projects
+
 Nailora – Booking & Management System
 - Group project (Forked repository)
 - Technologies: Java, HTML, Maven, Docker
