@@ -1,4 +1,4 @@
-# portfolio
+portfolio
 Computer Science student at Khon Kaen University seeking an IT Support internship. Interested in web technologies and user support, with basic technical skills and a strong willingness to learn through real-world work experience.
 
 Web Design Project
@@ -14,11 +14,11 @@ Solo HTML/CSS Website
 - GitHub: https://github.com/Chanankan293/solo-html-css-portfolio
 
 Alex Face – Image & Face Data 
--Technologies: HTML, CSS
--Features: Display and organize images on web pages
--My role: Design webpage layout, manage image assets, and structure project files
-- Live demo:
--GitHub: https://github.com/Chanankan293/AlexFace
+- Technologies: HTML, CSS
+- Features: Display and organize images on web pages
+- My role: Design webpage layout, manage image assets, and structure project files
+- Live demo:https://chanankan293.github.io/AlexFace/
+- GitHub: https://github.com/Chanankan293/AlexFace
 
 Group Projects
 
